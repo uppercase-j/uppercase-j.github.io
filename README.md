@@ -1,5 +1,4 @@
-<!--
-**jdawnforest/jdawnforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**uppercase-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# dawnforest.net
-This repository contains the building blocks for https://dawnforest.net, the personal website and digital home of J. Dawnforest.
+# journeyings.net
+This repository contains the building blocks for https://journeyings.net, J's personal website and digital home.
+
+## Upcoming additions I'd like to make
+- Add a blog to my website!
 
 ## Changelog
 None yet!
