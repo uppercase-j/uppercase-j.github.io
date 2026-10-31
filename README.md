@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# journeyings.net
-This repository contains the building blocks for https://journeyings.net, J's personal website and digital home.
+# About this repository
+This repository contains the building blocks for J's personal website. Specifically, it's their Digital Lab. They intend to get up to S.T.E.M here (Shenanigans, Tomfoolery, Escapades, Mischief). There is no project timeline/deadline for the building of this Lab. It is forever changing at its own pace.
 
 ## Upcoming additions I'd like to make
-- Add a blog to my website!
+- Interactive What's in my Bag
+- Interactive View of my Sketchbook
+- Splash page for Art Project
 
 ## Changelog
 None yet!
